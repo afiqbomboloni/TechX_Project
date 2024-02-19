@@ -1,0 +1,4 @@
+/build
+/editor
+.env
+/node_modules
